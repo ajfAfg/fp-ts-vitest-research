@@ -1,5 +1,4 @@
-import * as String from "fp-ts/String";
-
+import * as String from "fp-ts/string";
 import * as Option from "fp-ts/Option";
 
 export const equalStrings = (s1: string, s2: string): boolean =>
